@@ -28,3 +28,23 @@ git clone https://github.com/Azure12355/game-tank-battle.git
 ```
 
 2.将源码中的 `index.html` 直接拖入到浏览器中即可运行
+
+## 运行效果
+- 游戏菜单
+<p align="center">
+    <a href="" target="_blank">
+      <img src="./assets/game01.png" width="60%" />
+    </a>
+</p>
+- 关卡1
+<p align="center">
+    <a href="" target="_blank">
+      <img src="./assets/game02.png" width="60%" />
+    </a>
+</p>
+- 关卡8
+<p align="center">
+    <a href="" target="_blank">
+      <img src="./assets/game03.png" width="60%" />
+    </a>
+</p>
